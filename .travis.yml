@@ -8,7 +8,7 @@ install:
 - pip install -r requirements.txt
 
 script:
-- echo "No Script to run"
+- echo "No Script to run yey"
 
 deploy:
   provider: gae
